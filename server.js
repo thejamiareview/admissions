@@ -13,7 +13,7 @@ app.use(express.static("static"));
 
 // req and response
 app.get('/', (req, res) => {
-  res.send("Hello")
+  res.render("main")
 })
 
 
