@@ -11,10 +11,14 @@ app.set("view engine", "ejs");
 app.set("views", "views");
 app.use(express.static("static"));
 
-// req and response
-app.get('/', (req, res) => {
-  res.render("main")
-})
+// set site under construction
+plumb = true
+if(plumb = true){
+  app.get('/', (req, res) => {
+    res.render("underConstruction")
+  })
+}
+
 
 
 // Firing up (listening to) the exress server
