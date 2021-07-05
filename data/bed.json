@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "name": "Special Education",
+            "details": {
+                "seats": "-",
+                "ug_degree": "-",
+                "entrance": "JMI Entrance exam",
+                "fees": "₹ –",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "-",
+                "muslim": "-",
+                "muslim_obc/st": "-",
+                "muslim_women": "-",
+                "jamia_internal": "-",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "-",
+                "km": "-"
+            },
+            "preparation_books": ["-"]
+        },
+        {
+            "name": "Nursery Education",
+            "details": {
+                "seats": "-",
+                "ug_degree": "-",
+                "entrance": "-",
+                "fees": "₹-",
+                "admission": "open/close",
+                "eligibility": "-" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "59.75",
+                "muslim": "56.75",
+                "muslim_obc/st": "56.50",
+                "muslim_women": "54.25",
+                "jamia_internal": "81292",
+                "pwd/pd_locomoter_disability": "34.75",
+                "jk": "-",
+                "km": "-"
+            },
+            "preparation_books": ["Jamia Milia Islamia B.Ed. Joint Entrance Examination 2020. by Arihant Experts", "B. Ed. Entrance Guide: Jamia Millia Islamia. by Dr. Shafiqur Rahman"]
+        }
+    ]
+}

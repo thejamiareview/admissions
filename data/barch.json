@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "name": "B.Arch. (Regular)",
+            "details": {
+                "seats": "40",
+                "ug_degree": "4 Years",
+                "entrance": "JEE Main",
+                "fees": "₹ 55,750",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "paper containing questions of Mathematics (70 marks), aptitude test (100 marks)",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "1139",
+                "muslim": "1714",
+                "muslim_obc/st": "2228",
+                "muslim_women": "89481",
+                "jamia_internal": "4594",
+                "pwd/pd_locomoter_disability": "78178",
+                "jk": "2373",
+                "km": "13241"
+            },
+            "preparation_books": ["Arihant’s Self Study Guide"]
+        },
+        {
+            "name": "B.Arch. (SFS)",
+            "details": {
+                "seats": "40",
+                "ug_degree": "4 Years",
+                "entrance": "JEE Main",
+                "fees": "₹-",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "Mathematics (70 marks), aptitude test (100 marks), General English (Grammar & Vocabulary)",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "905",
+                "muslim": "2492",
+                "muslim_obc/st": "2492",
+                "muslim_women": "3398",
+                "jamia_internal": "6789",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "6386",
+                "km": "80725"
+            },
+            "preparation_books": ["Arihant"]
+        }
+    ]
+}

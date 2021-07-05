@@ -1,0 +1,82 @@
+{
+    "data": [
+        {
+            "name": "Food Production",
+            "details": {
+                "seats": "-",
+                "ug_degree": "3 Years",
+                "entrance": "JMI Entrance exam",
+                "fees": "₹ 2,91,000",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "-",
+                "muslim": "-",
+                "muslim_obc/st": "-",
+                "muslim_women": "-",
+                "jamia_internal": "-",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "-",
+                "km": "-"
+            },
+            "preparation_books": ["-"]
+        },
+        {
+            "name": "Solar Energy",
+            "details": {
+                "seats": "-",
+                "ug_degree": "3 Years",
+                "entrance": "JMI Entrance exam",
+                "fees": "₹ 1,35,000",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "-",
+                "muslim": "-",
+                "muslim_obc/st": "-",
+                "muslim_women": "-",
+                "jamia_internal": "-",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "-",
+                "km": "-"
+            },
+            "preparation_books": ["-"]
+        },
+        {
+            "name": "Medical Electrophysiology",
+            "details": {
+                "seats": "-",
+                "ug_degree": "3 Years",
+                "entrance": "JMI Entrance exam",
+                "fees": "₹ 1,33,000",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "-",
+                "muslim": "-",
+                "muslim_obc/st": "-",
+                "muslim_women": "-",
+                "jamia_internal": "-",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "-",
+                "km": "-"
+            },
+            "preparation_books": ["-"]
+        }
+    ]
+}

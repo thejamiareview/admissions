@@ -1,0 +1,492 @@
+{
+    "languages": [
+        {
+            "name": "Urdu",
+            "details": {
+                "seats": "60",
+                "ug_degree": "4 Years",
+                "entrance": "JMI Entrance Exam",
+                "fees": "",
+                "admission": "open/close",
+                "eligibility": "-" 
+            },
+            "syllabus": {
+                "objective": "40 marks (General Knowledge, Current Affairs)",
+                "subjective": "60 marks (About Urdu language, famous poets and poems)"
+            },
+            "cutoff": {
+                "general": "55.50",
+                "muslim": "50.00",
+                "muslim_obc/st": "47.00",
+                "muslim_women": "46.75",
+                "jamia_internal": "37.50",
+                "pwd/pd_locomoter_disability": "26.50",
+                "jk": "29",
+                "km": "-"
+            },
+            "preparation_books": ["Shafique’s JMI Entrance Examination Guide by Dr. Shafiq-ur-Rahman"]
+        },
+        {
+            "name": "Turkish Language and Literature",
+            "details": {
+                "seats": "30",
+                "ug_degree": "3 Years",
+                "entrance": "JMI Entrance Exam",
+                "fees": "₹ 21,600",
+                "admission": "open/close",
+                "eligibility": "50% in Class-12" 
+            },
+            "syllabus": {
+                "objective": "40 marks (General Knowledge, Current Affairs, History, Science and Social Science)",
+                "subjective": "60 marks (Turkey: Country profile and the people, Geographical regions/places of Turkey, Outline of Turkish History, Essay on renewed literary/political personalities of Turkey or India, Indo-Turkish Relations, Relevance and importance of learning Turkish language and literature, Comprehension of unseen passage in English, Basic English Grammar)"
+            },
+            "cutoff": {
+                "general": "62.25",
+                "muslim": "60.00",
+                "muslim_obc/st": "55.50",
+                "muslim_women": "58.75",
+                "jamia_internal": "58.25",
+                "pwd/pd_locomoter_disability": "37.75",
+                "jk": "33.75",
+                "km": "-"
+            },
+            "preparation_books": ["Arihant General Knowledge and Current Affairs by Manohar Pandey", "Shafique’s Guide"]
+        },
+        {
+            "name": "Sanskrit",
+            "details": {
+                "seats": "40",
+                "ug_degree": "-",
+                "entrance": "-",
+                "fees": "₹-",
+                "admission": "open/close",
+                "eligibility": "-" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "39",
+                "muslim": "-",
+                "muslim_obc/st": "-",
+                "muslim_women": "-",
+                "jamia_internal": "-",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "-",
+                "km": "-"
+            },
+            "preparation_books": ["Class 11 Sanskrit NCERT Book", " Class 12 Sanskrit NCERT Book"]
+        },
+        {
+            "name": "Persian",
+            "details": {
+                "seats": "60",
+                "ug_degree": "–",
+                "entrance": "–",
+                "fees": "₹–",
+                "admission": "open/close",
+                "eligibility": "–" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "60",
+                "muslim": "54.25",
+                "muslim_obc/st": "49",
+                "muslim_women": "42.50",
+                "jamia_internal": "36.75",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "43",
+                "km": "-"
+            },
+            "preparation_books": [""]
+        },
+        {
+            "name": "Hindi",
+            "details": {
+                "seats": "40",
+                "ug_degree": "-",
+                "entrance": "JMI Entrance Exam",
+                "fees": "₹-",
+                "admission": "open/close",
+                "eligibility": "-" 
+            },
+            "syllabus": {
+                "objective": "General awareness, current affairs and general knowledge",
+                "subjective": "General understanding of hindi upto class 12",
+                "other": "Hindi grammar, poetry and prose, i.e. Nibandh and lalit nibandh, Vyangya, Samiksha, History of hindi literature"
+            },
+            "cutoff": {
+                "general": "43.75",
+                "muslim": "40.25",
+                "muslim_obc/st": "39.00",
+                "muslim_women": "37.75",
+                "jamia_internal": "-",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "-",
+                "km": "-"
+            },
+            "preparation_books": ["JMI Entrance guide of Shafique ur Rehman, R. Gupta", "Arihant"]
+        },
+        {
+            "name": "English",
+            "details": {
+                "seats": "60",
+                "ug_degree": "3 Years",
+                "entrance": "-",
+                "fees": "₹ 21,600",
+                "admission": "open/close",
+                "eligibility": "-" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": "",
+                "other": "General awareness, English literature (Literary Aptitude, authors, books), General English (Grammar & Vocabulary)"
+            },
+            "cutoff": {
+                "general": "58.00",
+                "muslim": "55.25",
+                "muslim_obc/st": "53.25",
+                "muslim_women": "54.00",
+                "jamia_internal": "53.00",
+                "pwd/pd_locomoter_disability": "32.75",
+                "jk": "54.00",
+                "km": "32.75"
+            },
+            "preparation_books": ["Manohar Pandey", "Shafique ur Rehman", "Arihant"]
+        },
+        {
+            "name": "Arabic",
+            "details": {
+                "seats": "60",
+                "ug_degree": "3 Years",
+                "entrance": "-",
+                "fees": "₹ 21,600",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "-",
+                "muslim": "-",
+                "muslim_obc/st": "-",
+                "muslim_women": "-",
+                "jamia_internal": "-",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "-",
+                "km": "-"
+            },
+            "preparation_books": ["Manohar Pandey", "Shafique ur Rehman", "Arihant"]
+        },
+        {
+            "name": "Korean Language",
+            "details": {
+                "seats": "30",
+                "ug_degree": "-",
+                "entrance": "JMI Entrance Exam",
+                "fees": "₹-",
+                "admission": "open/close",
+                "eligibility": "-" 
+            },
+            "syllabus": {
+                "objective": "30 MCQs (General knowledge) on Korea (30 marks), 50 MCQs on English (50 marks)",
+                "subjective": "Essay (20 marks)"
+            },
+            "cutoff": {
+                "general": 	"73 – 63.25",
+                "muslim": "70.50 – 64",
+                "muslim_obc/st": "65.75 – 63.50",
+                "muslim_women": "64.00",
+                "jamia_internal": "63.75",
+                "pwd/pd_locomoter_disability": "37.00",
+                "jk": "60.25",
+                "km": "32.75"
+            },
+            "preparation_books": ["Dr Shafique’s JMI ENTRANCE TEST GUIDE", "Arihant’s GK and current affairs"]
+        }
+   ],
+   "others": [
+        {
+            "name": "B.A.(GENERAL)",
+            "details": {
+                "seats": "68",
+                "ug_degree": "3 Years",
+                "entrance": "JMI Entrance Exam",
+                "fees": "₹ –",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": "",
+                "other": "General awareness, English, reasoning, social awareness, basic maths"
+            },
+            "cutoff": {
+                "general": "76.00",
+                "muslim": "74.75",
+                "muslim_obc/st": "73.25",
+                "muslim_women": "73.50",
+                "jamia_internal": "73.75",
+                "PWD/PD- Disability": "45.75",
+                "pwd/pd_locomoter_disability": "49.75",
+                "PWD/PD- Blindeness/Low Vision": "59.75",
+                "jk": "72.50",
+                "km": "-"
+            },
+            "preparation_books": [""]
+        },
+        {
+            "name": "Geography",
+            "details": {
+                "seats": "60",
+                "ug_degree": "3 Years",
+                "entrance": "JMI Entrance exam",
+                "fees": "₹ 21,600",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": "",
+                "other": "Geography Theory (35 marks), Geography Practical (10 marks), General Studies (40 marks), Interview (15 marks)"
+            },
+            "cutoff": {
+                "general": "60.25",
+                "muslim": "54.00",
+                "muslim_obc/st": "52.50",
+                "muslim_women": "50.75",
+                "jamia_internal": "52.50",
+                "pwd/pd_locomoter_disability": "30.25",
+                "PWD/PD- Disability": "16", 
+                "jk": "50",
+                "km": "-"
+            },
+            "preparation_books": ["General knowledge BY Arihant", "R. Gupta’s ‘Objective Geography"]
+        },
+        {
+            "name": "Sociology",
+            "details": {
+                "seats": "42",
+                "ug_degree": "3 Years",
+                "entrance": "JMI Entrance exam",
+                "fees": "₹ 21,600",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": "",
+                "other": "General knowledge, social awareness, language skills and reasoning"
+            },
+            "cutoff": {
+                "general": "60.00",
+                "muslim": "54.00",
+                "muslim_obc/st": "51.25",
+                "muslim_women": "51.50",
+                "jamia_internal": "58.75",
+                "pwd/pd_locomoter_disability": "28.25",
+                "pwd/pd_hearing_impairment": "20.00",
+                "jk": "51.00",
+                "km": "15.00"
+            },
+            "preparation_books": ["Manorma", "Ncert geography/sociology 11th and 12th"]
+        },
+        {
+            "name": "Psycology",
+            "details": {
+                "seats": "42",
+                "ug_degree": "3 Years",
+                "entrance": "JMI Entrance exam",
+                "fees": "₹ 21,600",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": "",
+                "other": "Language skills(20 marks), General Awareness(40 marks), Reasoning(20 marks), Social Awareness(20 marks)"
+            },
+            "cutoff": {
+                "general": "59.25",
+                "muslim": "55.50",
+                "muslim_obc/st": "53.00",
+                "muslim_women": "55.00",
+                "jamia_internal": "54.25",
+                "pwd/pd_locomoter_disability": "16.75",
+                "PWD/PD- Chronic Neurology": "33.00",
+                "jk": "51.00",
+                "km": "36.50"
+            },
+            "preparation_books": ["Manorma", "Arihant’s General Knowledge and Current Affairs", "Shafique’s Guide for BA entrance"]
+        },
+        {
+            "name": "Political Sciences",
+            "details": {
+                "seats": "-",
+                "ug_degree": "3 Years",
+                "entrance": "JEE Mains",
+                "fees": "₹ 21,600",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "-",
+                "muslim": "-",
+                "muslim_obc/st": "-",
+                "muslim_women": "-",
+                "jamia_internal": "-",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "-",
+                "km": "-"
+            },
+            "preparation_books": ["-"]
+        },
+        {
+            "name": "Mass Media Hindi",
+            "details": {
+                "seats": "40",
+                "ug_degree": "3 Years",
+                "entrance": "JMI Entrance exam",
+                "fees": "₹-",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "(40 marks) General knowledge, Current affairs and contemporary national and international events",
+                "subjective": "(60 marks consists 5 questions of 6 marks each and 3 questions of 10 marks each) General knowledge, current affairs, Literature and Culture, General awareness of Mass Media Hindi Newspapers and Magazines, Radio , Television programmes, Films and Advertisements"
+            },
+            "cutoff": {
+                "general": "53.50",
+                "muslim": "48.75",
+                "muslim_obc/st": "46.75",
+                "muslim_women": "47",
+                "jamia_internal": "42.5",
+                "pwd/pd_locomoter_disability": "39.50",
+                "jk": "42.5",
+                "km": "-"
+            },
+            "preparation_books": ["Manorama year book", "Arihant General Knowledge by Manohar Pandey"
+            ]
+        },
+        {
+            "name": "Islamic Studies",
+            "details": {
+                "seats": "60",
+                "ug_degree": "3 Years",
+                "entrance": "JMI Entrance exam",
+                "fees": "₹ 21,600",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "49.75",
+                "muslim": "46.00",
+                "muslim_obc/st": "40.25",
+                "muslim_women": "42.50",
+                "jamia_internal": "31.75",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "40.25",
+                "km": "-"
+            },
+            "preparation_books": ["•Introduction to Islam By Dr. Muhammad Hamidullah", "A Handbook On Islam By Javed Akhatar", "A simple guide to Islam By Farida Khanam", "Towards Understanding Islam by Abul A’la Maududi"]
+        },
+        {
+            "name": "History",
+            "details": {
+                "seats": "60",
+                "ug_degree": "3 Years",
+                "entrance": "JMI Entrance exams",
+                "fees": "₹ 21,600",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": "",
+                "other": "Indian History (50%), World History (10%), Current Affairs (10%), GK (10%), General Sciences (10%), Social Sciences (10%, other than history)"
+            },
+            "cutoff": {
+                "general": "50.50",
+                "muslim": "45.75",
+                "muslim_obc/st": "43.75",
+                "muslim_women": "42.00",
+                "jamia_internal": "44.25",
+                "PWD/PD- Disability": "24.75",
+                "pwd/pd_locomoter_disability": "21.25",
+                "PWD/PD- Blindeness/Low Vision": "27.50",
+                "jk": "39.00",
+                "km": "-"
+            },
+            "preparation_books": ["Conceptum", "NCERT Class 12", "Current Affairs & GK"]
+        },
+        {
+            "name": "Economics",
+            "details": {
+                "seats": "53",
+                "ug_degree": "-",
+                "entrance": "-",
+                "fees": "₹-",
+                "admission": "open/close",
+                "eligibility": "-" 
+            },
+            "syllabus": {
+                "objective": "(100 marks) General knowledge, Maths, Basic English, LR",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "56.25",
+                "muslim": "50.25",
+                "muslim_obc/st": "47.25",
+                "muslim_women": "46.25",
+                "jamia_internal": "50.00",
+                "pwd/pd_locomoter_disability": "24.25",
+                "jk": "47.75",
+                "km": "20.75"
+            },
+            "preparation_books": ["Manorama", "JMI BA Economics 2020 entrance", "NCERT Maths"]
+        },
+        {
+            "name": "L.L.B.",
+            "details": {
+                "seats": "60",
+                "ug_degree": "3 Years",
+                "entrance": "JMI Entrance exam",
+                "fees": "₹ 21,600",
+                "admission": "open/close",
+                "eligibility": "-" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": "",
+                "other": "General awareness, English literature (Literary Aptitude, authors, books), General English (Grammar & Vocabulary)"
+            },
+            "cutoff": {
+                "general": "89.00",
+                "muslim": "82.75",
+                "muslim_obc/st": "77.75",
+                "muslim_women": "76.5",
+                "jamia_internal": "75.5",
+                "pwd/pd_hearing_impairment": "30.00",
+                "pwd/pd_locomoter_disability": "50.50",
+                "PWD/PD- Blindeness/Low Vision": "33.5", 
+                "jk": "76.5",
+                "km": "32.5"
+            },
+            "preparation_books": ["Legal Awareness and Legal Reasoning by Pearson", "Quick Learning Objective General English by R.S.Aggarwal and Vikas Aggarwal", "General Knowledge by Arihant", "General Knowledge Manual by Pearson", "Quantitative Aptitude for Competitive Examinations by RS Aggarwal/ S Chand Publishing; Revised edition", "General Science – NCERT textbooks, Magazines", "Newspapers"]
+        }
+   ]
+}

@@ -1,0 +1,134 @@
+{
+    "data": [
+        {
+            "name": "Computer Sciences Engineering",
+            "details": {
+                "seats": "70",
+                "ug_degree": "4 Years",
+                "entrance": "JEE Main",
+                "fees": "₹ 64,600",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "JEE MAINS (PCM of 11th and 12th)",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "-",
+                "muslim": "-",
+                "muslim_obc/st": "-",
+                "muslim_women": "-",
+                "jamia_internal": "-",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "-",
+                "km": "-"
+            },
+            "preparation_books": ["JEE MAIN Chapterwise Solutions of Physics (2020-2002) Arihant Publication"]
+        },
+        {
+            "name": "Mechanical Engineering",
+            "details": {
+                "seats": "70",
+                "ug_degree": "4 Years",
+                "entrance": "JEE Main",
+                "fees": "₹ 64,600",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "JEE MAINS (PCM of 11th and 12th)",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "16513",
+                "muslim": "29079",
+                "muslim_obc/st": "34436",
+                "muslim_women": "78979",
+                "jamia_internal": "70182",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "65497",
+                "km": "206639"
+            },
+            "preparation_books": ["JEE MAIN Chapterwise Solutions of Physics (2020-2002) Arihant Publication"]
+        },
+        {
+            "name": "Electronics and Communications Engineering",
+            "details": {
+                "seats": "70",
+                "ug_degree": "4 Years",
+                "entrance": "JEE Main",
+                "fees": "₹ 64,600",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "JEE MAINS (PCM of 11th and 12th)",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "14086",
+                "muslim": "22969",
+                "muslim_obc/st": "26582",
+                "muslim_women": "61175",
+                "jamia_internal": "74246",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "44871",
+                "km": "124850"
+            },
+            "preparation_books": ["JEE MAIN Chapterwise Solutions of Physics (2020-2002) Arihant Publication"]
+        },
+        {
+            "name": "Electrical Engineering",
+            "details": {
+                "seats": "70",
+                "ug_degree": "4 Years",
+                "entrance": "JEE Main",
+                "fees": "₹ 64,600",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "JEE MAINS (PCM of 11th and 12th)",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "14086",
+                "muslim": "22969",
+                "muslim_obc/st": "26582",
+                "muslim_women": "61172",
+                "jamia_internal": "74246",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "44871",
+                "km": "124850"
+            },
+            "preparation_books": ["JEE MAIN Chapterwise Solutions of Physics (2020-2002) Arihant Publication"]
+        },
+        {
+            "name": "Civil Engineering",
+            "details": {
+                "seats": "70",
+                "ug_degree": "4 Years",
+                "entrance": "JEE Main",
+                "fees": "₹ 64,600",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "JEE MAINS (PCM of 11th and 12th)",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "18134",
+                "muslim": "31362",
+                "muslim_obc/st": "35858",
+                "muslim_women": "89481",
+                "jamia_internal": "81292",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "57268",
+                "km": "265756"
+            },
+            "preparation_books": ["JEE MAIN Chapterwise Solutions of Physics (2020-2002) Arihant Publication"]
+        }
+    ]
+}
