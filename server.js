@@ -1,5 +1,6 @@
 const express = require("express");
 const ejs = require("ejs");
+const data = require(`${__dirname}/data/routes.js`)
 
 // Handling environment variables
 require("dotenv").config();
@@ -11,14 +12,20 @@ app.set("view engine", "ejs");
 app.set("views", "views");
 app.use(express.static("static"));
 
-// req and response
+// Setting the home routes
 app.get('/', (req, res) => {
   res.send("Hello")
 })
 
+// Setting up page routes
+for(let i=0; i<data.length; i++){
+  app.get(data[i].route, (req, res) => {
+    res.render(data[i].page, data[i].options)
+  })
+}
 
 // Firing up (listening to) the exress server
 const port = process.env.PORT || 3000;
-app.listen(port, function () {
+app.listen(port, () => {
   console.log(`Server is up on port ${port}`)
 });
