@@ -5,7 +5,6 @@ const data = require(`${__dirname}/data/routes.js`)
 // Handling environment variables
 require("dotenv").config();
 
-
 // Setting up initial express server
 const app = express();
 app.set("view engine", "ejs");
