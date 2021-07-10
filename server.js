@@ -12,11 +12,12 @@ app.set("views", "views");
 app.use(express.static("static"));
 
 
-plumb = true
+plumb = false
 if(plumb = true){
   app.get('/', (req, res) => {
     res.render("underConstruction")
-  }
+  })
+}
 app.get('/', (req, res) => {
   res.send("Hello")
 })
