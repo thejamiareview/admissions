@@ -13,7 +13,7 @@ app.use(express.static("static"));
 
 // Setting the home routes
 app.get('/', (req, res) => {
-  res.send("Hello")
+  res.render('main')
 })
 
 // Setting up page routes
