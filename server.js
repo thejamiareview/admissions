@@ -18,7 +18,9 @@ if(plumb = true){
     res.render("underConstruction")
   })
 }
-
+app.get('/', (req, res) => {
+  res.send("Hello")
+})
 
 
 // Firing up (listening to) the exress server
