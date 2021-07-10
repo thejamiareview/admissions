@@ -1,0 +1,26 @@
+{
+    "name": "",
+    "details": {
+        "seats": "",
+        "ug_degree": "",
+        "entrance": "",
+        "fees": "",
+        "admission": "",
+        "eligibility": "" 
+    },
+    "syllabus": {
+        "objective": "",
+        "subjective": ""
+    },
+    "cutoff": {
+        "general": "",
+        "muslim": "",
+        "muslim_obc/st": "",
+        "muslim_women": "",
+        "jamia_internal": "",
+        "pwd/pd_locomoter_disability": "",
+        "jk": "",
+        "km": ""
+    },
+    "preparation_books": [""]
+}

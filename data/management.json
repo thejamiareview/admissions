@@ -1,0 +1,117 @@
+{
+    "data": [
+        {
+            "name": "B.T.T.M.",
+            "details": {
+                "seats": "40",
+                "ug_degree": "3 Years",
+                "entrance": "JMI Entrance exam",
+                "fees": "₹ –",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": "",
+                "other": "Quantitative aptitude (20 marks), Reasoning (25 marks), English (30 marks), General awareness (25 marks), Negative marking (-0.25 marks) for each wrong answer"
+            },
+            "cutoff": {
+                "general": "58.00",
+                "muslim": "52.75",
+                "muslim_obc/st": "49.25",
+                "muslim_women": "50.50",
+                "jamia_internal": "53.75",
+                "PWD/PD- Hearing Impairment": "22.75",
+                "pwd/pd_locomoter_disability": "41.50",
+                "jk": "40.75",
+                "km": "-"
+            },
+            "preparation_books": ["Entrance guide- by Dr. Shafikur Rahman"]
+        },
+        {
+            "name": "B.H.M.",
+            "details": {
+                "seats": "40",
+                "ug_degree": "3 Years",
+                "entrance": "JMI Entrance exam",
+                "fees": "₹ –",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": "",
+                "other": "Quantitative aptitude (20 marks), Reasoning (25 marks), English (30 marks), General awareness (25 marks), Negative marking (-0.25 marks) for each wrong answer"
+            },
+            "cutoff": {
+                "general": "56.25",
+                "muslim": "52.75",
+                "muslim_obc/st": "48.00",
+                "muslim_women": "48.50",
+                "jamia_internal": "52.25",
+                "pwd/pd_locomoter_disability": "",
+                "PWD/PD- Blindness / Low Vison": "51.00",
+                "PWD/PD- Autism/Intellectual": "36.00",
+                "jk": "39.75",
+                "km": "27.75"
+            },
+            "preparation_books": ["Entrance guide by Dr Shafikur Rahman", "Manorama", "PathFinder", "Arihant", "How to Crack Test Of Reasoning by Jaikishan and Premkishan", "The Plinth to Paramount by Neetu Singh", "S.P Bakshi’s The Objective English Grammar"]
+        },
+        {
+            "name": "B.B.A.",
+            "details": {
+                "seats": "44",
+                "ug_degree": "3 Years",
+                "entrance": "JMI Entrance exam",
+                "fees": "₹ –",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": "",
+                "other": "Language Skills (20 marks), General Awareness (40 marks), Reasoning (20 marks), Numeric Ability (20 marks)"
+            },
+            "cutoff": {
+                "general": "72.25",
+                "muslim": "63.75",
+                "muslim_obc/st": "60.50",
+                "muslim_women": "60.50",
+                "jamia_internal": "62.50",
+                "PWD/PD- Hearing Impairment": "50.00",
+                "pwd/pd_locomoter_disability": "52.25",
+                "jk": "36.50",
+                "km": "58.25"
+            },
+            "preparation_books": ["Shafique’s JMI Entrance Examination Guide"]
+        },
+        {
+            "name": "B.Com.",
+            "details": {
+                "seats": "55",
+                "ug_degree": "3 Years",
+                "entrance": "JMI Entrance exam",
+                "fees": "₹ –",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "Language Skills (20 marks), General Awareness (40 marks), Reasoning (20 marks), Numerical Ability (20 marks)",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "52.50",
+                "muslim": "48.00",
+                "muslim_obc/st": "45.70",
+                "muslim_women": "46.00",
+                "jamia_internal": "44.75",
+                "pwd/pd_locomoter_disability": "40.50",
+                "pwd/pd_locomoter_disability": "22.75",
+                "pwd/pd_locomoter_disability": "25.0",
+                "jk": "44.00",
+                "km": "24.50"
+            },
+            "preparation_books": ["Shafique’s JMI Entrance Examination Guide by Dr. Shafiq-ur-Rahman"]
+        }
+    ]
+}

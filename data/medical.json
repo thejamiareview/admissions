@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "name": "B.D.S.",
+            "details": {
+                "seats": "50",
+                "ug_degree": "5 Years",
+                "entrance": "NEET",
+                "fees": "₹ –",
+                "admission": "open/close",
+                "eligibility": "50% in class-12" 
+            },
+            "syllabus": {
+                "objective": "Syllabus of NEET",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "33439",
+                "muslim": "37994",
+                "muslim_obc/st": "-",
+                "muslim_women": "-",
+                "jamia_internal": "-",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "-",
+                "km": "-"
+            },
+            "preparation_books": ["NCERT textbooks of grade 11 & 12"]
+        },
+        {
+            "name": "B.P.T.",
+            "details": {
+                "seats": "-",
+                "ug_degree": "-",
+                "entrance": "-",
+                "fees": "₹ –",
+                "admission": "open/close",
+                "eligibility": "-" 
+            },
+            "syllabus": {
+                "objective": "",
+                "subjective": ""
+            },
+            "cutoff": {
+                "general": "-",
+                "muslim": "-",
+                "muslim_obc/st": "-",
+                "muslim_women": "-",
+                "jamia_internal": "-",
+                "pwd/pd_locomoter_disability": "-",
+                "jk": "-",
+                "km": "-"
+            },
+            "preparation_books": ["-"]
+        }
+    ]
+}
