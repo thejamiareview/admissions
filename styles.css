@@ -1,0 +1,241 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
+  /*font for whole page*/
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  /*default color of text*/
+  /* color: #edf2f4; */
+  /*transition of everything is set*/
+  transition: all 0.3s;
+}
+/*header*/
+
+header {
+  --text: #d00000;
+  --background: #ffffff;
+  --hovercolor: #ffffff75;
+  overflow: hidden;
+  display: flex;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  /*A great example of people not listening to each other
+  and
+  doing things on thier own just to proof stupid points start here*/
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -ms-sticky;
+  position: -o-sticky;
+  /*ends here*/
+  background-color: var(--background);
+  z-index: 2;
+}
+/*logo*/
+header img {
+  display: inline-block;
+  padding: 10px;
+  height: 100px;
+  width: 100px;
+}
+/*navbar*/
+header nav {
+  width: 100%;
+}
+header ul {
+  text-decoration: none;
+  list-style: none;
+  float: right;
+  z-index: 1;
+}
+header ul li {
+  display: inline-block;
+  line-height: 70px;
+  padding: 15px 0px;
+}
+header ul li a {
+  padding: 1em 3em;
+  border-radius: 0.7em;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: var(--text);
+}
+.active > a,
+a:hover {
+  background-color: var(--hovercolor);
+  transition: 0.3s;
+}
+.chk-btn span {
+  /*hamburger logo*/
+  color: var(--text);
+  font-family: "Material Icons";
+  font-size: 30px;
+  line-height: 100px;
+  float: right;
+  margin-right: 50px;
+  cursor: pointer;
+  display: none;
+}
+#ch-1 {
+  display: none;
+}
+/*small pc screen*/
+@media (min-width: 1050px) {
+  header ul {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+@media (max-width: 1050px) {
+  header img {
+    height: 90px;
+    width: 90px;
+  }
+  header ul {
+    margin-right: 50px;
+  }
+  header ul li {
+    line-height: 60px;
+  }
+  header ul li a {
+    font-size: 14px;
+  }
+}
+
+/*tablet verticle*/
+@media (max-width: 600px) {
+  header img {
+    height: 80px;
+    width: 80px;
+  }
+  .chk-btn span {
+    display: block;
+    line-height: 80px;
+  }
+  header ul {
+    position: fixed;
+    right: -50%;
+    top: 80px;
+    height: 100vh;
+    background: var(--background);
+    text-align: center;
+    width: 50%;
+    margin-right: 0px;
+    padding-top: 50px;
+    transition: all 0.5s;
+  }
+  header ul li {
+    display: block;
+  }
+  header ul li a {
+    font-size: 18px;
+  }
+  #ch-1:checked ~ ul {
+    right: 0;
+  }
+}
+
+/*phone*/
+@media (max-width: 480px) {
+  header ul {
+    width: 100%;
+    right: -100%;
+  }
+  .chk-btn span {
+    margin-right: 30px;
+  }
+}
+
+
+
+
+.popular_courses {
+  text-align: center;
+  padding: 2em;
+background-color:#d0000052;
+  color: #d00000;
+}
+.popular_courses h1,
+p {
+
+  padding: 1em 1em;
+  color:#d00000;
+}
+.popular_courses h1{
+  font-size: 2em;
+}
+.popular_courses hr {
+  width: 50%;
+  margin: auto;
+  margin-top: 2em;
+  color: #d00000;
+}
+
+body {
+        padding: 0px;
+        margin: 0;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    table {
+        /* position: absolute; */
+
+        left: 50%;
+        top: 50%;
+      /* margin-left:20%; */
+        /* transform: translate(-50%, -50%); */
+        border-collapse: collapse;
+        width: 800px;
+        height: 200px;
+        border: 1px solid #bdc3c7;
+        box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    tr {
+        transition: all .2s ease-in;
+        cursor: pointer;
+    }
+
+    th,
+    td {
+        padding: 12px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+    #header {
+        background-color: #d00000;
+        color: #fff;
+    }
+
+    h2 {
+        font-weight: 600;
+        text-align: center;
+        background-color: #d00000;
+        color: #fff;
+        padding: 10px 0px;
+        margin-top: 100px;
+
+    }
+
+    tr:hover {
+        background-color: #f5f5f5;
+        transform: scale(1.02);
+        box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    /* @media only screen and (max-width: 768px) { */
+        table {
+            width: 100%;
+        }
+    /* } */
+    .last{
+      margin-bottom: 100px;
+    }
+.syllabus{
+  text-align: center;
+  color: black;
+}
+@media(max-width:767px;)
