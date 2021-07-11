@@ -22,6 +22,9 @@ app.use(express.static("static"));
 app.get('/', (req, res) => {
   res.render('main')
 })
+app.get("/details", (req, res)=> {
+  res.render("details", data[1].options)
+})
 
 // Setting up page routes
 for(let i=0; i<data.length; i++){

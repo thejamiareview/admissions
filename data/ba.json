@@ -43,10 +43,10 @@
             "cutoff": {
                 "general": "62.25",
                 "muslim": "60.00",
-                "muslim_obc/st": "55.50",
+                "muslim_obc_st": "55.50",
                 "muslim_women": "58.75",
                 "jamia_internal": "58.25",
-                "pwd/pd_locomoter_disability": "37.75",
+                "pwd_pd_locomoter_disability": "37.75",
                 "jk": "33.75",
                 "km": "-"
             },
@@ -69,10 +69,10 @@
             "cutoff": {
                 "general": "39",
                 "muslim": "-",
-                "muslim_obc/st": "-",
+                "muslim_obc_st": "-",
                 "muslim_women": "-",
                 "jamia_internal": "-",
-                "pwd/pd_locomoter_disability": "-",
+                "pwd_pd_locomoter_disability": "-",
                 "jk": "-",
                 "km": "-"
             },
@@ -95,10 +95,10 @@
             "cutoff": {
                 "general": "60",
                 "muslim": "54.25",
-                "muslim_obc/st": "49",
+                "muslim_obc_st": "49",
                 "muslim_women": "42.50",
                 "jamia_internal": "36.75",
-                "pwd/pd_locomoter_disability": "-",
+                "pwd_pd_locomoter_disability": "-",
                 "jk": "43",
                 "km": "-"
             },
@@ -122,10 +122,10 @@
             "cutoff": {
                 "general": "43.75",
                 "muslim": "40.25",
-                "muslim_obc/st": "39.00",
+                "muslim_obc_st": "39.00",
                 "muslim_women": "37.75",
                 "jamia_internal": "-",
-                "pwd/pd_locomoter_disability": "-",
+                "pwd_pd_locomoter_disability": "-",
                 "jk": "-",
                 "km": "-"
             },
@@ -149,10 +149,10 @@
             "cutoff": {
                 "general": "58.00",
                 "muslim": "55.25",
-                "muslim_obc/st": "53.25",
+                "muslim_obc_st": "53.25",
                 "muslim_women": "54.00",
                 "jamia_internal": "53.00",
-                "pwd/pd_locomoter_disability": "32.75",
+                "pwd_pd_locomoter_disability": "32.75",
                 "jk": "54.00",
                 "km": "32.75"
             },
@@ -175,10 +175,10 @@
             "cutoff": {
                 "general": "-",
                 "muslim": "-",
-                "muslim_obc/st": "-",
+                "muslim_obc_st": "-",
                 "muslim_women": "-",
                 "jamia_internal": "-",
-                "pwd/pd_locomoter_disability": "-",
+                "pwd_pd_locomoter_disability": "-",
                 "jk": "-",
                 "km": "-"
             },
@@ -201,10 +201,10 @@
             "cutoff": {
                 "general": 	"73 – 63.25",
                 "muslim": "70.50 – 64",
-                "muslim_obc/st": "65.75 – 63.50",
+                "muslim_obc_st": "65.75 – 63.50",
                 "muslim_women": "64.00",
                 "jamia_internal": "63.75",
-                "pwd/pd_locomoter_disability": "37.00",
+                "pwd_pd_locomoter_disability": "37.00",
                 "jk": "60.25",
                 "km": "32.75"
             },
@@ -230,12 +230,12 @@
             "cutoff": {
                 "general": "76.00",
                 "muslim": "74.75",
-                "muslim_obc/st": "73.25",
+                "muslim_obc_st": "73.25",
                 "muslim_women": "73.50",
                 "jamia_internal": "73.75",
-                "PWD/PD- Disability": "45.75",
-                "pwd/pd_locomoter_disability": "49.75",
-                "PWD/PD- Blindeness/Low Vision": "59.75",
+                "pwd_pd_disability": "45.75",
+                "pwd_pd_locomoter_disability": "49.75",
+                "pwd_pd_blindeness_low_vision": "59.75",
                 "jk": "72.50",
                 "km": "-"
             },
@@ -262,8 +262,8 @@
                 "muslim_obc/st": "52.50",
                 "muslim_women": "50.75",
                 "jamia_internal": "52.50",
-                "pwd/pd_locomoter_disability": "30.25",
-                "PWD/PD- Disability": "16", 
+                "pwd_pd_locomoter_disability": "30.25",
+                "pwd_pd_disability": "16", 
                 "jk": "50",
                 "km": "-"
             },
@@ -290,7 +290,7 @@
                 "muslim_obc/st": "51.25",
                 "muslim_women": "51.50",
                 "jamia_internal": "58.75",
-                "pwd/pd_locomoter_disability": "28.25",
+                "pwd_pd_locomoter_disability": "28.25",
                 "pwd/pd_hearing_impairment": "20.00",
                 "jk": "51.00",
                 "km": "15.00"
@@ -486,7 +486,7 @@
                 "jk": "76.5",
                 "km": "32.5"
             },
-            "preparation_books": ["Legal Awareness and Legal Reasoning by Pearson", "Quick Learning Objective General English by R.S.Aggarwal and Vikas Aggarwal", "General Knowledge by Arihant", "General Knowledge Manual by Pearson", "Quantitative Aptitude for Competitive Examinations by RS Aggarwal/ S Chand Publishing; Revised edition", "General Science – NCERT textbooks, Magazines", "Newspapers"]
+            "preparation_books": ["Legal Awareness and Legal Reasoning by Pearson", "Quick Learning Objective General English by R.S.Aggarwal and Vikas Aggarwal", "General Knowledge by Arihant", "General Knowledge Manual by Pearson", "Quantitative Aptitude for Competitive Examinations by RS Aggarwal/ S Chand Publishing Revised edition", "General Science – NCERT textbooks, Magazines", "Newspapers"]
         }
    ]
 }
