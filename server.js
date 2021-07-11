@@ -11,7 +11,13 @@ app.set("view engine", "ejs");
 app.set("views", "views");
 app.use(express.static("static"));
 
-// Setting the home routes
+
+plumb = true;
+if(plumb == true){
+  app.get('/', (req, res) => {
+    res.render("underConstruction")
+  })
+}
 app.get('/', (req, res) => {
   res.render('main')
 })
