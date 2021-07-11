@@ -11,13 +11,14 @@ app.set("view engine", "ejs");
 app.set("views", "views");
 app.use(express.static("static"));
 
+// When under live development
+// plumb = true;
+// if(plumb == true){
+//   app.get('/', (req, res) => {
+//     res.render("underConstruction")
+//   })
+// }
 
-plumb = true;
-if(plumb == true){
-  app.get('/', (req, res) => {
-    res.render("underConstruction")
-  })
-}
 app.get('/', (req, res) => {
   res.render('main')
 })
