@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title><%= name %></title>
+  <meta name="description" content="" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="css/details.css" />
+  <link rel="shortcut icon" href="images/logo.png" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+</head>
+
+<body>
+  <header>
+    <a class="logo">
+      <img src="images/logo.png" alt="TJR" />
+    </a>
+    <nav>
+      <input type="checkbox" id="ch-1" />
+      <label for="ch-1" class="chk-btn">
+        <span class="material-icons-outlined"> menu </span>
+      </label>
+      <ul class="menu">
+        <li class="menu-item active"><a href="">Home</a></li>
+        <li class="menu-item"><a href="">Blog</a></li>
+        <li class="menu-item"><a href="">Contact us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="section-3">
+    <div class="popular_courses">
+      <h1><%= name %> </h1>
+      <!--line-->
+
+      <!--line-->
+      <p>
+        CUT OFF LISTS, QUESTION PAPERS, ENTRANCE & COURSE SYLLABUS<br />
+        RECOMMENDED BOOKS FOR PREPARATION, EVERYTHING AT ONE PLACE AT JMI
+        ADMISSIONS BY TJR
+      </p>
+    </div>
+  </section>
+  <section>
+
+    <table class="content">
+      <!-- <caption>Details</caption> -->
+      <thead>
+        <tr id="header">
+          <th>DETAILS</th><th></th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Seats</td><td><%= details.seats %></td>
+        </tr>
+        <tr>
+          <td>UG Degree</td><td><%= details.ug_degree %></td>
+        </tr>
+        <tr>
+          <td>Entrance</td><td><%= details.entrance %></td>
+        </tr>
+        <tr>
+          <td>Fee</td><td><%= details.fees %></td>
+        </tr>
+        <tr>
+          <td>Admission</td><td><%= details.admission %></td>
+        </tr>
+        <tr>
+          <td>Eligibility</td><td><%= details.eligibility %></td>
+        </tr>
+      </tbody>
+    </table>
+    <h2>Entrance syllabus:</h2>
+    <p class="syllabus"><%= syllabus.objective %></p>
+    <p class="syllabus"><%= syllabus.subjective %></p>
+    <p class="syllabus last"><%= syllabus.other %></p>
+
+    <table class="content">
+      <!-- <caption>Details</caption> -->
+      <thead>
+        <tr id="header">
+          <th>Cut-off 2020</th>
+          <th></th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>General</td>
+          <td><%= cutoff.general %></td>
+        </tr>
+        <tr>
+          <td>Muslim</td>
+          <td><%= cutoff.muslim %></td>
+        </tr>
+        <tr>
+          <td>Muslim OBC/ST </td>
+          <td><%= cutoff.muslim_obc_st %></td>
+        </tr>
+        <tr>
+          <td>Muslim Women</td>
+          <td><%= cutoff.muslim_women %></td>
+        </tr>
+        <tr>
+          <td>Jamia Internal</td>
+          <td><%= cutoff.jamia_internal %></td>
+        </tr>
+        <tr>
+          <td>PWD/PD- Locomoter disability</td>
+          <td><%= cutoff.pwd_pd_locomoter_disability %></td>
+        </tr>
+        <tr>
+          <td>JK</td>
+          <td><%= cutoff.jk %></td>
+        </tr>
+        <tr>
+          <td>KM</td>
+          <td><%= cutoff.km %></td>
+        </tr>
+      </tbody>
+    </table>
+    <h2>Books For Preparation </h2>
+    <p class="syllabus">~Manohar Pandey</p>
+    <p class="syllabus">~ Shafique ur Rehman</p>
+    <p class="syllabus last">~ Arihant</p>
+  </section>
+
+
+  <footer></footer>
+</body>
+
+</html>

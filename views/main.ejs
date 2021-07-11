@@ -1,36 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Document</title>
-    <meta name="description" content="" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="./css/front_page.css" />
-    <link
-      href="https://fonts.googleapis.com/icon?family=Material+Icons"
-      rel="stylesheet"
-    />
-  </head>
-
-  <body>
-      <%- include('./partials/header.ejs') %>
-    <!--<header>
-      <a class="logo" href="#">
-        <img src="./images/logo.png" alt="TJR" />
-      </a>
-      <nav>
-        <input type="checkbox" id="ch-1" />
-        <label for="ch-1" class="chk-btn">
-          <span class="material-icons-outlined"> menu </span>
-        </label>
-        <ul class="menu">
-          <li class="menu-item active"><a href="">Home</a></li>
-          <li class="menu-item"><a href="">Blog</a></li>
-          <li class="menu-item"><a href="">Contact us</a></li>
-        </ul>
-      </nav>
-    </header>-->
+  <%- include('partials/homepage_header.ejs') %>
 
     <section class="section-1">
       <div class="parallax">
@@ -59,79 +27,20 @@
     <section class="section-3">
       <div class="popular_courses">
         <h1>Popular Courses</h1>
-        <!--line-->
         <hr />
-        <!--line-->
-        <p>
-          CUT OFF LISTS, QUESTION PAPERS, ENTRANCE & COURSE SYLLABUS RECOMMENDED
-          BOOKS FOR PREPARATION, EVERYTHING AT ONE PLACE AT JMI ADMISSIONS BY
-          TJR
-        </p>
+        <p>CUT OFF LISTS, QUESTION PAPERS, ENTRANCE & COURSE SYLLABUS RECOMMENDED BOOKS FOR PREPARATION, EVERYTHING AT ONE PLACE AT JMI ADMISSIONS BY TJR</p>
       </div>
       <div class="courses">
-        <div class="course">
-          <h3>B.A</h3>
-          <button class="bt3">
-            <span>Learn More</span>
-            <span class="material-icons"> arrow_forward_ios </span>
-          </button>
-        </div>
-        <div class="course">
-          <h3>B.Arch</h3>
-          <button class="bt3">
-            <span>Learn More</span>
-            <span class="material-icons"> arrow_forward_ios </span>
-          </button>
-        </div>
-        <div class="course">
-          <h3>B.Ed</h3>
-          <button class="bt3">
-            <span>Learn More</span>
-            <span class="material-icons"> arrow_forward_ios </span>
-          </button>
-        </div>
-        <div class="course">
-          <h3>B.F.A</h3>
-          <button class="bt3">
-            <span>Learn More</span>
-            <span class="material-icons"> arrow_forward_ios </span>
-          </button>
-        </div>
-        <div class="course">
-          <h3>B.Sc</h3>
-          <button class="bt3">
-            <span>Learn More</span>
-            <span class="material-icons"> arrow_forward_ios </span>
-          </button>
-        </div>
-        <div class="course">
-          <h3>B.Tech</h3>
-          <button class="bt3">
-            <span>Learn More</span>
-            <span class="material-icons"> arrow_forward_ios </span>
-          </button>
-        </div>
-        <div class="course">
-          <h3>B.Voc</h3>
-          <button class="bt3">
-            <span>Learn More</span>
-            <span class="material-icons"> arrow_forward_ios </span>
-          </button>
-        </div>
-        <div class="course">
-          <h3>Management</h3>
-          <button class="bt3">
-            <span>Learn More</span>
-            <span class="material-icons"> arrow_forward_ios </span>
-          </button>
-        </div>
-        <div class="course">
-          <h3>Medical</h3>
-          <button class="bt3">
-            <span>Learn More</span>
-            <span class="material-icons"> arrow_forward_ios </span>
-          </button>
-        </div>
+      <% const courses = ["B.A.", "B.Arch.", "B.Ed.", "B.F.A.", "B.Sc.", "B.Tech", "B.Voc.", "Management", "Medical"] %>
+        <% courses.forEach((course) => { %>
+          <div class="course">
+            <h3><%= course %></h3>
+            <button class="bt3">
+              <span>Learn More</span>
+              <span class="material-icons"> arrow_forward_ios </span>
+            </button>
+          </div>
+        <% }) %>
       </div>
     </section>
 
@@ -139,17 +48,8 @@
       <div class="accordian"></div>
     </section>
 
-    <%- include('./partials/footer.ejs') %>
-    <!--
-        <footer>
-        <img class="go-back" src="images/jamia.jpg" alt="" />
-        <p class="future">YOUR FUTURE STARTS HERE</p>
-        <hr />
-        <p class="join">JOIN YOUR DREAM UNIVERSITY</p>
-        <button class="learn-more">Learn More</button>
-        <p id="copyright">&copy;</p>
-        </footer>
-    -->
-    <script src="./js/index.js"></script>
+    <%- include('partials/footer.ejs') %>
+
+    <script src="js/index.js"></script>
   </body>
 </html>

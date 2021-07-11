@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
 // Setting up page routes
 for(let i=0; i<data.length; i++){
   app.get(data[i].route, (req, res) => {
-    res.render(data[i].page, data[i].options)
+    res.render("details", data[i].options);
   })
 }
 

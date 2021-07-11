@@ -17,10 +17,10 @@
             "cutoff": {
                 "general": "55.50",
                 "muslim": "50.00",
-                "muslim_obc/st": "47.00",
+                "muslim_obc_st": "47.00",
                 "muslim_women": "46.75",
                 "jamia_internal": "37.50",
-                "pwd/pd_locomoter_disability": "26.50",
+                "pwd_pd_locomoter_disability": "26.50",
                 "jk": "29",
                 "km": "-"
             },
