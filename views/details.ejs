@@ -1,37 +1,3 @@
-<!--<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title><%= //name %></title>
-    <meta name="description" content="" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="./css/details.css" />
-    <link rel="shortcut icon" href="images/logo.png" type="image/x-icon" />
-    <link
-      href="https://fonts.googleapis.com/icon?family=Material+Icons"
-      rel="stylesheet"
-    />
-  </head>
-
-  <body>
-    <header>
-      <a class="logo">
-        <img src="images/logo.png" alt="TJR" />
-      </a>
-      <nav>
-        <input type="checkbox" id="ch-1" />
-        <label for="ch-1" class="chk-btn">
-          <span class="material-icons-outlined"> menu </span>
-        </label>
-        <ul class="menu">
-          <li class="menu-item active"><a href="">Home</a></li>
-          <li class="menu-item"><a href="">Blog</a></li>
-          <li class="menu-item"><a href="">Contact us</a></li>
-        </ul>
-      </nav>
-    </header>
-  -->
   <%- include('partials/homepage_header.ejs') %> 
     <section class="section-3">
       <div class="popular_courses">
@@ -131,12 +97,25 @@
       </tbody>
     </table>
     <h2>Books For Preparation </h2>
-    <p class="syllabus">~Manohar Pandey</p>
-    <p class="syllabus">~ Shafique ur Rehman</p>
-    <p class="syllabus last">~ Arihant</p>
+    
+    <!-- <p class="syllabus">Manohar Pandey</p>
+    <p class="syllabus">Shafique ur Rehman</p>
+    <p class="syllabus last">Arihant</p> -->
+    
+    <!-- Style this as above, plz guys Shairin/Abdullah/Nabeel -->
+    <!-- Add some padding-bottom to the list-item  -->
+    <ul>
+    <% for (let i=0; i<preparation_books.length; i++) { %>
+      <% if (i==preparation_books.length-1) { %>
+        <li class="syllabus last"><%= i+1 %>&nbsp;&nbsp;&nbsp;<%= preparation_books[i] %></li>
+      <% } else { %>
+        <li class="syllabus"><%= i+1 %>&nbsp;&nbsp;&nbsp; <%= preparation_books[i] %> </li>
+      <% } %>  
+    <% } %>
+  </ul>
   </section>
 
-
-  <footer></footer>
+  <%- include('partials/footer.ejs') %>
+  <script src="js/index.js"></script>
 </body>
 </html>

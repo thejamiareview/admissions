@@ -1,8 +1,6 @@
 const express = require("express");
 const ejs = require("ejs");
 const data = require(`${__dirname}/data/routes.js`)
-
-// Handling environment variables
 require("dotenv").config();
 
 // Setting up initial express server
@@ -12,18 +10,18 @@ app.set("views", "views");
 app.use(express.static("static"));
 
 // When under live development
-// plumb = true;
-// if(plumb == true){
-//   app.get('/', (req, res) => {
-//     res.render("underConstruction")
-//   })
-// }
+plumb = false;
+if(plumb){
+  app.get('/', (req, res) => {
+    res.render("underConstruction", {name: "Admissions || The Jamia Review"})
+  })
+}
 
 app.get('/', (req, res) => {
-  res.render('main')
+  res.render('main', {name: "Admissions || The Jamia Review"})
 })
 app.get("/details", (req, res)=> {
-  res.render("details", data[1].options)
+  res.render("details", data[2].options)
 })
 
 // Setting up page routes

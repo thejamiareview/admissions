@@ -26,6 +26,7 @@
                 "pwd_pd_hearing_impairment": "-",
                 "pwd_pd_autism_intellectual": "-",
                 "pwd_pd_chronic_neurology": "-",
+                "pwd_pd_haemophilia": "-",
                 "jk": "-",
                 "km": "-"
             },
@@ -57,6 +58,7 @@
                 "pwd_pd_hearing_impairment": "-",
                 "pwd_pd_autism_intellectual": "-",
                 "pwd_pd_chronic_neurology": "-",
+                "pwd_pd_haemophilia": "-",
                 "jk": "-",
                 "km": "-"
             },
@@ -88,6 +90,7 @@
                 "pwd_pd_hearing_impairment": "-",
                 "pwd_pd_autism_intellectual": "-",
                 "pwd_pd_chronic_neurology": "-",
+                "pwd_pd_haemophilia": "-",
                 "jk": "35.75",
                 "km": "-"
             },
@@ -119,6 +122,7 @@
                 "pwd_pd_hearing_impairment": "-",
                 "pwd_pd_autism_intellectual": "-",
                 "pwd_pd_chronic_neurology": "-",
+                "pwd_pd_haemophilia": "-",
                 "jk": "42.50",
                 "km": "25.25"
             },
@@ -150,6 +154,7 @@
                 "pwd_pd_hearing_impairment": "-",
                 "pwd_pd_autism_intellectual": "-",
                 "pwd_pd_chronic_neurology": "-",
+                "pwd_pd_haemophilia": "-",
                 "jk": "22.25",
                 "km": "28.75"
             },
@@ -181,6 +186,7 @@
                 "pwd_pd_hearing_impairment": "-",
                 "pwd_pd_autism_intellectual": "-",
                 "pwd_pd_chronic_neurology": "-",
+                "pwd_pd_haemophilia": "-",
                 "jk": "22.25",
                 "km": "-"
             },
@@ -214,6 +220,7 @@
                 "pwd_pd_hearing_impairment": "-",
                 "pwd_pd_autism_intellectual": "-",
                 "pwd_pd_chronic_neurology": "-",
+                "pwd_pd_haemophilia": "-",
                 "jk": "74.00",
                 "km": "28.50"
             },
@@ -245,6 +252,7 @@
                 "pwd_pd_hearing_impairment": "-",
                 "pwd_pd_autism_intellectual": "-",
                 "pwd_pd_chronic_neurology": "-",
+                "pwd_pd_haemophilia": "-",
                 "jk": "71.25",
                 "km": "15.00"
             },
@@ -272,6 +280,12 @@
                     "muslim_women": "34.25",
                     "jamia_internal": "41.75",
                     "pwd_pd_locomoter_disability": "-",
+                    "pwd_pd_haemophilia": "-",
+                    "pwd_pd_disability": "-",
+                    "pwd_pd_blindness_low_vison": "-",
+                    "pwd_pd_hearing_impairment": "-",
+                    "pwd_pd_autism_intellectual": "-",
+                    "pwd_pd_chronic_neurology": "-",
                     "jk": "22.25",
                     "km": "-"
                 },
@@ -287,6 +301,7 @@
                     "pwd_pd_hearing_impairment": "-",
                     "pwd_pd_autism_intellectual": "-",
                     "pwd_pd_chronic_neurology": "-",
+                    "pwd_pd_haemophilia": "-",
                     "jk": "32.75",
                     "km": "-"
                 }
