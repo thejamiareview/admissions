@@ -15,10 +15,16 @@
     "cutoff": {
         "general": "",
         "muslim": "",
-        "muslim_obc/st": "",
+        "muslim_obc_st": "",
         "muslim_women": "",
         "jamia_internal": "",
-        "pwd/pd_locomoter_disability": "",
+        "pwd_pd_disability": "",
+        "pwd_pd_locomoter_disability": "",
+        "pwd_pd_blindness_low_vison": "",
+        "pwd_pd_hearing_impairment": "",
+        "pwd_pd_autism_intellectual": "",
+        "pwd_pd_chronic_neurology": "",
+        "pwd_pd_haemophilia": "",
         "jk": "",
         "km": ""
     },

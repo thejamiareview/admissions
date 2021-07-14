@@ -11,16 +11,21 @@
                 "eligibility": "50% in class-12" 
             },
             "syllabus": {
-                "objective": "",
-                "subjective": ""
+                "objective": "-",
+                "subjective": "-"
             },
             "cutoff": {
                 "general": "-",
                 "muslim": "-",
-                "muslim_obc/st": "-",
+                "muslim_obc_st": "-",
                 "muslim_women": "-",
                 "jamia_internal": "-",
-                "pwd/pd_locomoter_disability": "-",
+                "pwd_pd_disability": "-",
+                "pwd_pd_locomoter_disability": "-",
+                "pwd_pd_blindness_low_vison": "-",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "-",
                 "km": "-"
             },
@@ -37,16 +42,21 @@
                 "eligibility": "50% in class-12" 
             },
             "syllabus": {
-                "objective": "",
-                "subjective": ""
+                "objective": "-",
+                "subjective": "-"
             },
             "cutoff": {
                 "general": "-",
                 "muslim": "-",
-                "muslim_obc/st": "-",
+                "muslim_obc_st": "-",
                 "muslim_women": "-",
                 "jamia_internal": "-",
-                "pwd/pd_locomoter_disability": "-",
+                "pwd_pd_disability": "-",
+                "pwd_pd_locomoter_disability": "-",
+                "pwd_pd_blindness_low_vison": "-",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "-",
                 "km": "-"
             },
@@ -63,16 +73,21 @@
                 "eligibility": "50% in class-12" 
             },
             "syllabus": {
-                "objective": "",
-                "subjective": ""
+                "objective": "-",
+                "subjective": "-"
             },
             "cutoff": {
                 "general": "47.00",
                 "muslim": "44.00",
-                "muslim_obc/st": "40.75",
+                "muslim_obc_st": "40.75",
                 "muslim_women": "37.00",
                 "jamia_internal": "42.25",
-                "pwd/pd_locomoter_disability": "35.25",
+                "pwd_pd_disability": "-",
+                "pwd_pd_locomoter_disability": "35.25",
+                "pwd_pd_blindness_low_vison": "-",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "35.75",
                 "km": "-"
             },
@@ -89,16 +104,21 @@
                 "eligibility": "50% in class-12" 
             },
             "syllabus": {
-                "objective": "",
-                "subjective": ""
+                "objective": "-",
+                "subjective": "-"
             },
             "cutoff": {
                 "general": "52.00",
                 "muslim": "47.00",
-                "muslim_obc/st": "42.75",
+                "muslim_obc_st": "42.75",
                 "muslim_women": "40.50",
                 "jamia_internal": "41.75",
-                "pwd/pd_locomoter_disability": "20.00",
+                "pwd_pd_disability": "-",
+                "pwd_pd_locomoter_disability": "20.00",
+                "pwd_pd_blindness_low_vison": "-",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "42.50",
                 "km": "25.25"
             },
@@ -115,16 +135,21 @@
                 "eligibility": "50% in class-12" 
             },
             "syllabus": {
-                "objective": "",
-                "subjective": ""
+                "objective": "-",
+                "subjective": "-"
             },
             "cutoff": {
                 "general": "42.00",
                 "muslim": "34.00",
-                "muslim_obc/st": "32.50",
+                "muslim_obc_st": "32.50",
                 "muslim_women": "31.50",
                 "jamia_internal": "29.50",
-                "pwd/pd_locomoter_disability": "-",
+                "pwd_pd_disability": "-",
+                "pwd_pd_locomoter_disability": "-",
+                "pwd_pd_blindness_low_vison": "-",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "22.25",
                 "km": "28.75"
             },
@@ -142,15 +167,20 @@
             },
             "syllabus": {
                 "objective": "General awareness, Class 11 and 12 mathematics, Arihant general knowledge",
-                "subjective": ""
+                "subjective": "-"
             },
             "cutoff": {
                 "general": "37.50",
                 "muslim": "31.50",
-                "muslim_obc/st": "29.75",
+                "muslim_obc_st": "29.75",
                 "muslim_women": "29.75",
                 "jamia_internal": "25.00",
-                "pwd/pd_locomoter_disability": "-",
+                "pwd_pd_disability": "-",
+                "pwd_pd_locomoter_disability": "-",
+                "pwd_pd_blindness_low_vison": "-",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "22.25",
                 "km": "-"
             },
@@ -167,18 +197,23 @@
                 "eligibility": "50% in class-12" 
             },
             "syllabus": {
-                "objective": "",
-                "subjective": "",
+                "objective": "-",
+                "subjective": "-",
                 "other": "Biological Sciences, Physics, Chemistry, Maths"
             },
             "cutoff": {
                 "general": "83.50",
                 "muslim": "80.75",
-                "muslim_obc/st": "77.50",
+                "muslim_obc_st": "77.50",
                 "muslim_women": "78.25",
                 "jamia_internal": "74.75",
-                "PWD/PD- Haemophilia": "68.75",
-                "PWD/PD- Blindness/low vision": "56.25",
+                "pwd_pd_disability": "-",
+                "pwd_pd_haemophilia": "68.75",
+                "pwd_pd_locomoter_disability": "-",
+                "pwd_pd_blindness_low_vision": "56.25",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "74.00",
                 "km": "28.50"
             },
@@ -196,15 +231,20 @@
             },
             "syllabus": {
                 "objective": "MCQs (100 marks) with negative marking, Biological Sciences (50%), Physics, Chemistry, and Mathematics (50%)",
-                "subjective": ""
+                "subjective": "-"
             },
             "cutoff": {
                 "general": "80.85",
                 "muslim": "77.75",
-                "muslim_obc/st": "75.75",
+                "muslim_obc_st": "75.75",
                 "muslim_women": "77.00",
                 "jamia_internal": "73.00",
-                "pwd/pd_locomoter_disability": "29.25",
+                "pwd_pd_disability": "-",
+                "pwd_pd_locomoter_disability": "29.25",
+                "pwd_pd_blindness_low_vison": "-",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "71.25",
                 "km": "15.00"
             },
@@ -221,27 +261,32 @@
                 "eligibility": "50% in class-12" 
             },
             "syllabus": {
-                "objective": "",
-                "subjective": ""
+                "objective": "-",
+                "subjective": "-"
             },
             "cutoff": {
                 "Avionics": {
                     "general": "42.00",
                     "muslim": "36.00",
-                    "muslim_obc/st": "34.50",
+                    "muslim_obc_st": "34.50",
                     "muslim_women": "34.25",
                     "jamia_internal": "41.75",
-                    "pwd/pd_locomoter_disability": "-",
+                    "pwd_pd_locomoter_disability": "-",
                     "jk": "22.25",
                     "km": "-"
                 },
                 "Mechanical": {
                     "general": "42.50",
                     "muslim": "38.75",
-                    "muslim_obc/st": "33.25",
+                    "muslim_obc_st": "33.25",
                     "muslim_women": "33.50",
                     "jamia_internal": "-",
-                    "pwd/pd_locomoter_disability": "-",
+                    "pwd_pd_disability": "-",
+                    "pwd_pd_locomoter_disability": "-",
+                    "pwd_pd_blindness_low_vison": "-",
+                    "pwd_pd_hearing_impairment": "-",
+                    "pwd_pd_autism_intellectual": "-",
+                    "pwd_pd_chronic_neurology": "-",
                     "jk": "32.75",
                     "km": "-"
                 }

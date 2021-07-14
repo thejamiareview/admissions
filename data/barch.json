@@ -12,15 +12,20 @@
             },
             "syllabus": {
                 "objective": "paper containing questions of Mathematics (70 marks), aptitude test (100 marks)",
-                "subjective": ""
+                "subjective": "-"
             },
             "cutoff": {
                 "general": "1139",
                 "muslim": "1714",
-                "muslim_obc/st": "2228",
+                "muslim_obc_st": "2228",
                 "muslim_women": "89481",
                 "jamia_internal": "4594",
-                "pwd/pd_locomoter_disability": "78178",
+                "pwd_pd_disability": "-",
+                "pwd_pd_locomoter_disability": "78178",
+                "pwd_pd_blindness_low_vison": "-",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "2373",
                 "km": "13241"
             },
@@ -38,15 +43,20 @@
             },
             "syllabus": {
                 "objective": "Mathematics (70 marks), aptitude test (100 marks), General English (Grammar & Vocabulary)",
-                "subjective": ""
+                "subjective": "-"
             },
             "cutoff": {
                 "general": "905",
                 "muslim": "2492",
-                "muslim_obc/st": "2492",
+                "muslim_obc_st": "2492",
                 "muslim_women": "3398",
                 "jamia_internal": "6789",
-                "pwd/pd_locomoter_disability": "-",
+                "pwd_pd_disability": "-",
+                "pwd_pd_locomoter_disability": "-",
+                "pwd_pd_blindness_low_vison": "-",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "6386",
                 "km": "80725"
             },

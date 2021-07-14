@@ -12,15 +12,20 @@
             },
             "syllabus": {
                 "objective": "JEE MAINS (PCM of 11th and 12th)",
-                "subjective": ""
+                "subjective": "-"
             },
             "cutoff": {
                 "general": "-",
                 "muslim": "-",
-                "muslim_obc/st": "-",
+                "muslim_obc_st": "-",
                 "muslim_women": "-",
                 "jamia_internal": "-",
-                "pwd/pd_locomoter_disability": "-",
+                "pwd_pd_disability": "-",
+                "pwd_pd_locomoter_disability": "-",
+                "pwd_pd_blindness_low_vison": "-",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "-",
                 "km": "-"
             },
@@ -38,15 +43,20 @@
             },
             "syllabus": {
                 "objective": "JEE MAINS (PCM of 11th and 12th)",
-                "subjective": ""
+                "subjective": "-"
             },
             "cutoff": {
                 "general": "16513",
                 "muslim": "29079",
-                "muslim_obc/st": "34436",
+                "muslim_obc_st": "34436",
                 "muslim_women": "78979",
                 "jamia_internal": "70182",
-                "pwd/pd_locomoter_disability": "-",
+                "pwd_pd_disability": "-",
+                "pwd_pd_locomoter_disability": "-",
+                "pwd_pd_blindness_low_vison": "-",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "65497",
                 "km": "206639"
             },
@@ -64,15 +74,20 @@
             },
             "syllabus": {
                 "objective": "JEE MAINS (PCM of 11th and 12th)",
-                "subjective": ""
+                "subjective": "-"
             },
             "cutoff": {
                 "general": "14086",
                 "muslim": "22969",
-                "muslim_obc/st": "26582",
+                "muslim_obc_st": "26582",
                 "muslim_women": "61175",
                 "jamia_internal": "74246",
-                "pwd/pd_locomoter_disability": "-",
+                "pwd_pd_disability": "-",
+                "pwd_pd_locomoter_disability": "-",
+                "pwd_pd_blindness_low_vison": "-",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "44871",
                 "km": "124850"
             },
@@ -90,15 +105,20 @@
             },
             "syllabus": {
                 "objective": "JEE MAINS (PCM of 11th and 12th)",
-                "subjective": ""
+                "subjective": "-"
             },
             "cutoff": {
                 "general": "14086",
                 "muslim": "22969",
-                "muslim_obc/st": "26582",
+                "muslim_obc_st": "26582",
                 "muslim_women": "61172",
                 "jamia_internal": "74246",
-                "pwd/pd_locomoter_disability": "-",
+                "pwd_pd_disability": "-",
+                "pwd_pd_locomoter_disability": "-",
+                "pwd_pd_blindness_low_vison": "-",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "44871",
                 "km": "124850"
             },
@@ -116,15 +136,20 @@
             },
             "syllabus": {
                 "objective": "JEE MAINS (PCM of 11th and 12th)",
-                "subjective": ""
+                "subjective": "-"
             },
             "cutoff": {
                 "general": "18134",
                 "muslim": "31362",
-                "muslim_obc/st": "35858",
+                "muslim_obc_st": "35858",
                 "muslim_women": "89481",
                 "jamia_internal": "81292",
-                "pwd/pd_locomoter_disability": "-",
+                "pwd_pd_disability": "-",
+                "pwd_pd_locomoter_disability": "-",
+                "pwd_pd_blindness_low_vison": "-",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "57268",
                 "km": "265756"
             },

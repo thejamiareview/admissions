@@ -12,15 +12,20 @@
             },
             "syllabus": {
                 "objective": "Syllabus of NEET",
-                "subjective": ""
+                "subjective": "-"
             },
             "cutoff": {
                 "general": "33439",
                 "muslim": "37994",
-                "muslim_obc/st": "-",
+                "muslim_obc_st": "-",
                 "muslim_women": "-",
                 "jamia_internal": "-",
-                "pwd/pd_locomoter_disability": "-",
+                "pwd_pd_disability": "-",
+                "pwd_pd_locomoter_disability": "-",
+                "pwd_pd_blindness_low_vison": "-",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "-",
                 "km": "-"
             },
@@ -37,16 +42,21 @@
                 "eligibility": "-" 
             },
             "syllabus": {
-                "objective": "",
-                "subjective": ""
+                "objective": "-",
+                "subjective": "-"
             },
             "cutoff": {
                 "general": "-",
                 "muslim": "-",
-                "muslim_obc/st": "-",
+                "muslim_obc_st": "-",
                 "muslim_women": "-",
                 "jamia_internal": "-",
-                "pwd/pd_locomoter_disability": "-",
+                "pwd_pd_disability": "-",
+                "pwd_pd_locomoter_disability": "-",
+                "pwd_pd_blindness_low_vison": "-",
+                "pwd_pd_hearing_impairment": "-",
+                "pwd_pd_autism_intellectual": "-",
+                "pwd_pd_chronic_neurology": "-",
                 "jk": "-",
                 "km": "-"
             },
