@@ -1,6 +1,6 @@
 const express = require("express");
 const ejs = require("ejs");
-const data = require(`${__dirname}/data/routes.js`)
+const data = require(`${__dirname}/data/routes.js`);
 require("dotenv").config();
 
 // Setting up initial express server

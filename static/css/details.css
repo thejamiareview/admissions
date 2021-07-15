@@ -11,48 +11,20 @@
   /*transition of everything is set*/
   transition: all 0.3s;
 }
-/*header*/
-
-eader {
-  --text: #d00000;
-  --background: #ffffff;
-  --hovercolor: #ffffff75;
-  overflow: hidden;
-  display: flex;
+.details {
   width: 100%;
-  position: sticky;
-  top: 0;
-  /*A great example of people not listening to each other
-  and
-  doing things on thier own just to proof stupid points start here*/
-  position: -webkit-sticky;
-  position: -moz-sticky;
-  position: -ms-sticky;
-  position: -o-sticky;
-  /*ends here*/
-  background-color: var(--background);
-  z-index: 2;
-}
-/*logo*/
-
-body {
-  padding: 0px;
-  margin: 0;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #1d3557;
+  padding-block: 30px;
 }
 
 table {
-  /* position: absolute; */
-
-  left: 50%;
-  top: 50%;
-  /* margin-left:20%; */
-  /* transform: translate(-50%, -50%); */
   border-collapse: collapse;
-  width: 800px;
-  height: 200px;
-  border: 1px solid #bdc3c7;
-  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
+  max-width: 768px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 5px 9px 3px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  background: #a8dadc;
 }
 
 tr {
@@ -64,38 +36,55 @@ th,
 td {
   padding: 12px;
   text-align: left;
-  border-bottom: 1px solid #ddd;
+  border-collapse: collapse;
+  background-color: #a8dadc;
+}
+.table-1 td {
+  text-align: center;
 }
 
-#header {
-  background-color: #d00000;
-  color: #fff;
+#header > th {
+  background-color: #a8dadc;
+  color: #e63946f5;
+  text-align: center;
+  text-transform: uppercase;
+  border-radius: 10px 10px 0 0;
+}
+tr:last-child td {
+  border-radius: 0 0 10px 10px;
 }
 
-.h2 {
+.details h2 {
   font-weight: 600;
   text-align: center;
-  background-color: #d00000;
-  color: #fff;
+  color: #e63946f5;
   padding: 10px 0px;
-  margin-top: 100px;
+  margin-top: 60px;
 }
 
-tr:hover {
-  background-color: #f5f5f5;
+tbody tr:hover > td {
+  background-color: #457b9d;
   transform: scale(1.02);
+  border-radius: 0;
+  border-collapse: collapse;
   box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
 }
 
+.syllabus {
+  text-align: center;
+}
+.details ul {
+  padding-bottom: 40px;
+}
 /* @media only screen and (max-width: 768px) { */
 table {
   width: 100%;
 }
-/* } */
+/* } 
 .last {
   margin-bottom: 100px;
 }
 .syllabus {
   text-align: center;
   color: black;
-}
+}*/
