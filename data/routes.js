@@ -1,4 +1,4 @@
-const courses = require("./courses.json")
+const courses = require("./courses.js")
 const ba = require("./ba.json")
 const management = require("./management.json")
 const btech = require("./btech.json")
@@ -12,7 +12,7 @@ const barch = require("./barch.json")
 const data = [
   {
     route: "/courses",
-    options: courses
+    options: courses.data
   },
   {
     route: "/ba/languages/urdu",

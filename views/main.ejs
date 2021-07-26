@@ -31,11 +31,10 @@
         <p>CUT OFF LISTS, QUESTION PAPERS, ENTRANCE & COURSE SYLLABUS RECOMMENDED BOOKS FOR PREPARATION, EVERYTHING AT ONE PLACE AT JMI ADMISSIONS BY TJR</p>
       </div>
       <div class="courses">
-      <% const courses = ["B.A.", "B.Arch.", "B.Ed.", "B.F.A.", "B.Sc.", "B.Tech", "B.Voc.", "Management", "Medical"] %>
-        <% courses.forEach((course) => { %>
+        <%  courses.forEach((course) => { %>
           <div class="course">
-            <h3><%= course %></h3>
-            <button class="bt3" onclick=""><!--on click call function while passing course name to get to that course specificallyy-->
+            <h3><%= course.name %></h3>
+            <button class="bt3" onclick="">
               <span>Learn More</span>
               <span class="material-icons"> arrow_forward_ios </span>
             </button>
