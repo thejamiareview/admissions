@@ -2,16 +2,14 @@ module.exports = {
     data: [
         {
             name: "B.A.",
-            courses: [
-                {
-                    languages: [
-                        "Urdu", "Turkish", "Sanskrit", "Persian", "Hindi", "English", "Arabic", "Korean"
-                    ],
-                    others: [
-                        "B.A.(General)", "Geography", "Sociology", "Psychology", "Political Sciences", "Mass media (hindi)", "Islamic Studues", "History", "Economics", "L.L.B."
-                    ]
-                }
-            ]
+            courses: {
+                languages: [
+                    "Urdu", "Turkish", "Sanskrit", "Persian", "Hindi", "English", "Arabic", "Korean"
+                ],
+                others: [
+                    "B.A.(General)", "Geography", "Sociology", "Psychology", "Political Sciences", "Mass media (hindi)", "Islamic Studues", "History", "Economics", "L.L.B."
+                ]
+            }
         },
         {
             name: "Management",

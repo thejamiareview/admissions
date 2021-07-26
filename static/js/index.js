@@ -1,7 +1,12 @@
+// Footer stuff
+const p = document.getElementById("copyright")
+const date = new Date()
+p.innerText += ` ${date.getFullYear()}  |  The Jamia Review Team`
+
 
 const header = document.querySelector("header");
 const s_one = document.querySelector(".section-1");
-console.log(s_one)
+// console.log(s_one)
 
 const s_one_opt ={
     rootMargin :"-120px 0px 0px 0px"
@@ -29,9 +34,3 @@ chk_btn.addEventListener( 'change', function() {
         body.style.overflow='auto';
     }
 });
-
-
-// Footer stuff
-const p = document.getElementById("copyright")
-const date = new Date()
-p.innerText += ` ${date.getFullYear()}  |  The Jamia Review Team`

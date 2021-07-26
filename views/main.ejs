@@ -30,16 +30,19 @@
         <hr />
         <p>CUT OFF LISTS, QUESTION PAPERS, ENTRANCE & COURSE SYLLABUS RECOMMENDED BOOKS FOR PREPARATION, EVERYTHING AT ONE PLACE AT JMI ADMISSIONS BY TJR</p>
       </div>
+
+      <% routes = ['/ba', '/management', '/btech', '/bsc', '/bed', '/bvoc', '/bfa', '/medical', '/barch'] %> 
+
       <div class="courses">
-        <%  courses.forEach((course) => { %>
+        <% for(let i=0; i<allCourses.length; i++){ %>
           <div class="course">
-            <h3><%= course.name %></h3>
-            <button class="bt3" onclick="">
+            <h3><%= allCourses[i].name %></h3>
+            <a class="bt3" href="<%= routes[i] %> ">
               <span>Learn More</span>
               <span class="material-icons"> arrow_forward_ios </span>
-            </button>
+            </a>
           </div>
-        <% }) %>
+        <% } %>
       </div>
     </section>
 

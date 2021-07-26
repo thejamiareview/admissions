@@ -1,0 +1,76 @@
+
+<%- include('partials/homepage_header.ejs') %>
+
+<body style="background-color: #1d3557;">
+
+    <section class="section-1"></section>
+
+    <% if(0){ %>
+        <section class="section-2">
+            <div class="prospectus">
+                <h2><%= allCourses.name %> / Languages</h2>
+            </div>
+        </section>
+    
+        <section class="section-3">
+            <div class="courses">
+                <%  allCourses.courses.languages.forEach((course) => { %>
+                <div class="course">
+                    <h3><%= course %></h3>
+                    <a class="bt3" onclick="">
+                        <span>Learn More</span>
+                        <span class="material-icons"> arrow_forward_ios </span>
+                    </a>
+                </div>
+                <% }) %>
+            </div>
+        </section>
+
+        <section class="section-2">
+        <div class="prospectus">
+            <h2><%= allCourses.name %> / Others</h2>
+        </div>
+    </section>
+
+    <section class="section-3">
+        <div class="courses">
+            <% allCourses.courses.others.forEach((course) => { %>
+            <div class="course">
+                <h3><%= course %></h3>
+                <a class="bt3" onclick="">
+                    <span>Learn More</span>
+                    <span class="material-icons"> arrow_forward_ios </span>
+                </a>
+            </div>
+            <% }) %>
+        </div>
+    </section>
+
+
+    <% }else{ %>
+        <section class="section-2">
+            <div class="prospectus">
+                <h2><%= allCourses.name %> </h2>
+            </div>
+        </section>
+    
+        <section class="section-3">
+            <div class="courses">
+                <% allCourses.courses.forEach((course) => { %>
+                <div class="course">
+                    <h3><%= course %></h3>
+                    <a class="bt3" onclick="">
+                        <span>Learn More</span>
+                        <span class="material-icons"> arrow_forward_ios </span>
+                    </a>
+                </div>
+                <% }) %>
+            </div>
+        </section>
+    <% } %> 
+
+</body>
+
+
+
+<%- include('partials/footer.ejs') %>
