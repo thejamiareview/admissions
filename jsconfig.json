@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "baseUrl":".",
+        "paths": {
+            "@/static/*":["./static/*"],
+            "@/header/*":["./views/partials/homepage_header"]
+        }
+    }
+}
