@@ -9,7 +9,7 @@ const bfa = require("./bfa.json")
 const medical = require("./medical.json")
 const barch = require("./barch.json")
 
-const data = [
+module.exports = [
   {
     route: "/courses",
     options: courses.data
@@ -207,5 +207,3 @@ const data = [
     options: barch.data[1]
   },
 ]
-
-module.exports = data
